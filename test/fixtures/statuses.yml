@@ -2,8 +2,12 @@
 
 one:
   content: MyText
-  user: Superman
+  user: superman
 
 two:
   content: MyText
-  user: Superman
+  user: superman
+
+three:
+  content: "My name is Candace!"
+  user: ballet_cutie

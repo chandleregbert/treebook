@@ -3,3 +3,9 @@ superman:
   last_name: "Kent"
   email: "superman@gmail.com"
   profile_name: "superman"
+
+ballet_cutie:
+  first_name: "Candace"
+  last_name: "Egbert"
+  email: "cmballet_utah06@hotmail.com"
+  profile_name: ballet_cutie
